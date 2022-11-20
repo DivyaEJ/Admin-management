@@ -7,7 +7,11 @@ Run npm install
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
  To run Local Database Server
+ 
+ 
 sudo npm install -g json-server (if not installed)
+
+
 json-server --watch db.json 
 
 ## Code scaffolding
