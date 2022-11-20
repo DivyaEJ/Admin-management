@@ -1,0 +1,6 @@
+export const MAGICNUMBER = {
+ FIFTY:50,
+ EIGHT:8,
+ FIFTEEN:15,
+ SIX:6
+}
